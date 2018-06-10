@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "title": "ES6 Upgrade Available",
+        "feed": "Some data for post 1"
+    },
+    {
+        "id": "2",
+        "title": "Node Development",
+        "feed": "Some data for post 2"
+    },
+    {
+        "id": "3",
+        "title": "React Native Apps Development",
+        "feed": "Some data for post 3"
+    },
+    {
+        "id": "4",
+        "title": "React JS Learning",
+        "feed": "Some data for post 4"
+    }
+]
